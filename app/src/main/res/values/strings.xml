@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">PrimeNumbers</string>
+    <string name="app_name">Prime_Numbers</string>
+    <string name="button">Button</string>
+    <string name="primeText">TextView</string>
+
+
+
 </resources>
